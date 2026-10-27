@@ -48,10 +48,4 @@ An independent systems analysis case study exploring how a fictional hospital in
 
 ---
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/paulina-pola-broda/)
-
----
-
 *Portfolio note: The featured repositories are independent, fictional case studies created to demonstrate analytical methods and documentation practices. They do not represent deployed systems or official deliverables for clients or employers.*
